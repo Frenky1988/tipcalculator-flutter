@@ -1,1 +1,1 @@
-Tip calculator made with Flutter
+# Tip calculator built with Flutter
